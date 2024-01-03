@@ -222,4 +222,5 @@ gcc 47080.c -o 47080 -lcrypto
 1、msf中的smb_version
 2、enum4linux
 ```
+![image](https://github.com/KUANTECHSEC/Vulnhub/assets/84396144/d9004a52-015d-4bb2-9b61-fbe64f957206)
 
