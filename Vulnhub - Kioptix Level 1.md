@@ -1,4 +1,4 @@
-#Vulnhub - Kioptix Level 1
+Vulnhub - Kioptix Level 1
 
 ## 一、前言
 
